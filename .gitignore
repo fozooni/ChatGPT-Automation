@@ -1,0 +1,11 @@
+# Node module folder
+node_modules/
+chrome
+.vscode
+.idea
+
+# Environments
+.env
+.env.local
+.env.production
+.env.test
