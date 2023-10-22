@@ -1,10 +1,8 @@
 # OpenAI ChatGPT Automation
 
-This robot helps you to ask your questions automatically. Due to the increasing demand for the use of artificial intelligence in development, this robot has been developed.
+This robot helps you to ask your questions automatically from OpenAI ChatGPT.
 
-## Technologies
-
-The technologies used in this project are: typescript, playwright and chalk
+Due to the increasing demand for the use of artificial intelligence in development, this robot has been developed.
 
 ### OpenAI ChatGPT supported versions:
 
@@ -16,7 +14,7 @@ The technologies used in this project are: typescript, playwright and chalk
 - Node.js +16
 - Node package managements (NPM / Yarn)
 
-### Installation:
+## Installation:
 
 1. Install dependencies: `npm install` / `yarn install`
 2. Install Playwright test Chromium browser with: `npx playwright install`
